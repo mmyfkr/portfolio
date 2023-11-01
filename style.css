@@ -1,0 +1,46 @@
+/* Add your custom styles here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Dark background color */
+    color: #ffffff; /* White text */
+}
+
+header {
+    text-align: center;
+    padding: 60px 0;
+    background-color: #000033; /* Dark blue header background */
+    color: #ffffff; /* White text */
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    background-color: #000033; /* Dark blue navigation background */
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+section {
+    padding: 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #000033; /* Dark blue footer background */
+    color: #ffffff; /* White text */
+}
+
+/* Add more CSS styles to customize your portfolio as needed */
